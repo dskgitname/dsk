@@ -1,3 +1,4 @@
 public class Emp{
-	private String ename;
+	private Long  empno;
+	private String ename="mldn";
 }
